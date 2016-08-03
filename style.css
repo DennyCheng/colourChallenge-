@@ -1,0 +1,24 @@
+.foo{
+  float:left;
+  width:200px;
+  height:200px;
+  margin:0px;
+  border:1px solid rgba(0,0,0,.2);
+}
+
+.red{
+  background:red;
+}
+.blue{
+  background:blue;
+}
+.green{
+  background:green;
+}
+.yellow{
+  background:yellow;
+}
+
+#empContainer{
+  border: 1px dashed black;
+}
